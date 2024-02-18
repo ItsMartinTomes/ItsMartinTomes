@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Martin Tomes</h1>
 <h3 align="center">Linux system engineer who automate things</h3>
 
-- 🔭 I’m currently working on [proxiflow](https://github.com/tomesmartin/proxiflow)
+- 🔭 I’m currently working on [proxiflow](https://github.com/tomesink/proxiflow)
 
 - 🌱 I’m currently learning **Ansible, Terraform**
 
