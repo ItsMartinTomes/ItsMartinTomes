@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Linux, Networking, Automation, Shell**
 
-- 📫 How to reach me **martin.tomes.ink**
+- 📫 How to reach me **martin@tomes.ink**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
