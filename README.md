@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [proxiflow](https://github.com/tomesink/proxiflow)
 
-- 🌱 I’m currently learning **Ansible, Terraform**
+- 🌱 I’m currently learning **Embedded C programming, ARM32 Assembly**
 
 - 💬 Ask me about **Linux, Networking, Automation, Shell**
 
