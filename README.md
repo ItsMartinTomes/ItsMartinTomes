@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martin Tomes</h1>
-<h3 align="center">Linux system engineer who automate things</h3>
+<h3 align="center">System Engineer</h3>
 
 - 🔭 I’m currently working on [proxiflow](https://github.com/tomesink/proxiflow)
 
-- 🌱 I’m currently learning **Embedded C programming, ARM32 Assembly**
+- 🌱 I’m currently learning **Embedded programming, ARM32 Assembly**
 
-- 💬 Ask me about **Linux, Networking, Automation, Shell**
+- 💬 Ask me about **Linux, Python, Networking, Automation, Bash**
 
 - 📫 How to reach me **martin@tomes.ink**
 
