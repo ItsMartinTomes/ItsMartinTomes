@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Martin Tomes</h1>
-<h3 align="center">System Engineer</h3>
+<h1 align="center">Hi 👋, I'm Martin</h1>
+<h3 align="center">a System Engineer</h3>
 
 - 🔭 I’m currently working on [proxiflow](https://github.com/tomesink/proxiflow)
 
