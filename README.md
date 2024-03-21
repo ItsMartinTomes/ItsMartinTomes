@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on [proxiflow](https://github.com/tomesink/proxiflow)
 
-- 🌱 I’m currently learning **Embedded programming, ARM32 Assembly**
+- 🌱 I’m currently learning **Embedded Systems**
 
-- 💬 Ask me about **Linux, Python, Networking, Automation, Bash**
+- 💬 Ask me about **Bash, C, Python, Kubernetes, Linux, Networking**
 
-- 📫 How to reach me **martin@tomes.ink**
+- 📫 You can reach me at **martin@tomes.ink**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/tomesink" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tomesink" height="30" width="40" /></a>
+No socials, only <a href="https://bit.ly/3T2tY7b" target="blank">NOSTR</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
