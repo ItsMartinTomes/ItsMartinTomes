@@ -1,24 +1,25 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">a System Engineer</h3>
+<h3 align="center">and I automate things</h3>
 
-- 🔭 I’m currently working on [proxiflow](https://github.com/tomesink/proxiflow)
+- 🔭 I’m currently working on my ML library [proxiflow](https://gitlab.com/martintomes/proxiflow)
 
-- 🌱 I’m currently learning **Embedded Systems**
+- 🌱 I’m currently learning **Rust**.
 
-- 💬 Ask me about **Bash, C, Python, Kubernetes, Linux, Networking**
+- 💬 Ask me about **Linux, Networking, Automation, Shell**
 
-- 📫 You can reach me at **martin@tomes.ink**
+- 📫 How to reach me **its@martintomes.net**
 
-<h3 align="left">Socials:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-No socials, only <a href="https://bit.ly/3T2tY7b" target="blank">NOSTR</a>
+<a href="https://twitter.com/martintomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://primal.net/p/npub108py9c0zgmvmz2gtksmkr5qedete2el44y39pk3rpxv2gchrn8kshhxcqm" target="blank"><img align="center" src="https://raw.githubusercontent.com/mbarulli/nostr-logo/234544f9308c48afe0f4be7c19f1406c7fe9e37c/SVG/nostr-icon-white-on-purple.svg" alt="nostr" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rust-lang/rust-lang-icon.svg" alt="rust" width="40" height="40"/> </a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomesink&show_icons=true&locale=en&layout=compact" alt="tomesink" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tomesink&show_icons=true&locale=en" alt="tomesink" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tomesink&" alt="tomesink" /></p>
+
+
+
