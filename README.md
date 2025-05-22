@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on my ML library [proxiflow](https://gitlab.com/martintomes/proxiflow)
 
-- 🌱 Now learning **Rust**.
-
 - 💬 Ask me about **Linux, Networking, Automation, DevOps**
 
 - 📫 Contact: **its@martintomes.net**
